@@ -9,6 +9,8 @@
     </a>
 </p>
 
+Service Catalog is no longer maintained. [Drycc service-catalog](https://github.com/drycc/service-catalog) is a fork of service-catalog that is actively developed and accepts code contributions. 
+
 Service Catalog lets you provision cloud services directly from the comfort of native Kubernetes tooling.
 This project is in incubation to bring integration with service
 brokers to the Kubernetes ecosystem via the [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker).
